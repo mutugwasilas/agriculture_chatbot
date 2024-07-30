@@ -8,7 +8,11 @@ Welcome to the Agricultural Chatbot! This application is designed to assist farm
 4. <strong>24/7 Availability:</strong> Access the chatbot anytime, anywhere.
 ## Usage
 Open the notebook in google colab and run it.
-<img src="" />
+<img src="./screenshot.PNG" />
+<br/>
+From the above example, click on the ngrok url uniquely generated for you where you will be able to access the chatbot
 
-
-
+# Contibutors
+Bob Hawkins
+Silas Mutugwa
+Jones Alukwe
