@@ -13,6 +13,6 @@ Open the notebook in google colab and run it.
 From the above example, click on the ngrok url uniquely generated for you where you will be able to access the chatbot
 
 # Contibutors
-Bob Hawkins
-Silas Mutugwa
+Bob Hawkins<br>
+Silas Mutugwa<br>
 Jones Alukwe
