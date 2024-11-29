@@ -6,6 +6,7 @@ Welcome to the Agricultural Chatbot! This application is designed to assist farm
 2. <strong>Wide Range of Topics:</strong> Covers topics such as crop management, pest control, soil health, weather forecasts, and more.
 3. <strong>User-Friendly Interface:</strong> Easy to use with a simple and intuitive interface.
 4. <strong>24/7 Availability:</strong> Access the chatbot anytime, anywhere.
+5. <strong>Expert-verified Information:</strong> Receive accurate and reliable information reviewed by agricultural experst.
 ## Usage
 Open the notebook in google colab and run it.
 <img src="./screenshot.PNG" />
